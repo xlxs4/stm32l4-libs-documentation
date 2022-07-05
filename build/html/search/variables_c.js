@@ -1,0 +1,28 @@
+var searchData=
+[
+  ['nackenable_14898',['NACKEnable',['../group__SMARTCARD__Exported__Types.html#a2df6c39c492658208a0f644e0e78aa40',1,'SMARTCARD_InitTypeDef']]],
+  ['nandbank_14899',['NandBank',['../group__FMC__LL__Exported__typedef.html#ade342163a8ca0ad3651cc870b3368d6c',1,'FMC_NAND_InitTypeDef']]],
+  ['nbdata_14900',['NbData',['../stm32l4xx__hal__ospi_8h.html#a2c523efb4bea27001b86b25237c5b2c4',1,'OSPI_RegularCmdTypeDef::NbData()'],['../stm32l4xx__hal__ospi_8h.html#a8c18c4095d998db44ecc21e6b71323e8',1,'OSPI_HyperbusCmdTypeDef::NbData()'],['../stm32l4xx__hal__qspi_8h.html#ac88c55029db5df0db2e4e70fe4f50184',1,'QSPI_CommandTypeDef::NbData()'],['../group__DMA__LL__ES__INIT.html#a8b9e9b0e75ae4d5b6a617cd40baeec2e',1,'LL_DMA_InitTypeDef::NbData()']]],
+  ['nblsetuptime_14901',['NBLSetupTime',['../group__FMC__LL__Exported__typedef.html#a7bad2f9695e3abaf28f013589ec2dfd8',1,'FMC_NORSRAM_InitTypeDef']]],
+  ['nbpagestoerase_14902',['NbPagesToErase',['../stm32l4xx__hal__flash_8h.html#a0f55783c6dde84a998593cce2e08280b',1,'FLASH_ProcessTypeDef']]],
+  ['nbrofconversion_14903',['NbrOfConversion',['../group__ADC__Exported__Types.html#aa72b0cc3e8dac3a30097cf12093c42a7',1,'ADC_InitTypeDef']]],
+  ['nbrofdiscconversion_14904',['NbrOfDiscConversion',['../group__ADC__Exported__Types.html#a5c0078be814bfe2608ae5758826eafb8',1,'ADC_InitTypeDef']]],
+  ['nbroflines_14905',['NbrOfLines',['../group__DMA2D__LL__ES__Init__Struct.html#ac5d766adf88782fe5c96a51fb1139597',1,'LL_DMA2D_InitTypeDef']]],
+  ['nbrofpixelsperlines_14906',['NbrOfPixelsPerLines',['../group__DMA2D__LL__ES__Init__Struct.html#ae36e51001bf5d940b74d4e8d83f82cc4',1,'LL_DMA2D_InitTypeDef']]],
+  ['nbrxdatatoprocess_14907',['NbRxDataToProcess',['../group__SMARTCARD__Exported__Types.html#af396df108df4eb8451e5f2a33d02c86d',1,'__SMARTCARD_HandleTypeDef::NbRxDataToProcess()'],['../group__UART__Exported__Types.html#ad0d51cdd516e2b29f07b0424bad02919',1,'__UART_HandleTypeDef::NbRxDataToProcess()'],['../group__USART__Exported__Types.html#a3d85c98abdfa4482d15ed780ffa6d385',1,'__USART_HandleTypeDef::NbRxDataToProcess()']]],
+  ['nbtxdatatoprocess_14908',['NbTxDataToProcess',['../group__SMARTCARD__Exported__Types.html#a5f8a98496ff6428b76c4d82004067731',1,'__SMARTCARD_HandleTypeDef::NbTxDataToProcess()'],['../group__UART__Exported__Types.html#adf84f3a674dfa8ea3246c81100413036',1,'__UART_HandleTypeDef::NbTxDataToProcess()'],['../group__USART__Exported__Types.html#a341e44d4fb15ede51358a40c8e30875c',1,'__USART_HandleTypeDef::NbTxDataToProcess()']]],
+  ['nbwordsalreadypushed_14909',['NbWordsAlreadyPushed',['../group__ADC__Exported__Types.html#a9f55bfdbdeda9c11011236835aeb3048',1,'endif']]],
+  ['ncsport_14910',['NCSPort',['../stm32l4xx__hal__ospi_8h.html#adeacf2634a57bc2d020a58188daff692',1,'OSPIM_CfgTypeDef']]],
+  ['nodivider_14911',['NoDivider',['../group__SAI__Init__Structure__definition.html#a1f2ec4f0a68f286459be1aa0c20beb55',1,'SAI_InitTypeDef']]],
+  ['noerase_14912',['NoErase',['../group__RTCEx__Tamper__structure__definition.html#ac0ad5ad06015881c1c0e10de6ba0d516',1,'RTC_TamperTypeDef']]],
+  ['noninvertinginput_14913',['NonInvertingInput',['../group__COMP__Exported__Types.html#a77fc103642401a4958e3d935f8ad312a',1,'COMP_InitTypeDef']]],
+  ['nostretchmode_14914',['NoStretchMode',['../group__I2C__Configuration__Structure__definition.html#a28afdce458703464638f1a01e04da04e',1,'I2C_InitTypeDef::NoStretchMode()'],['../group__SMBUS__Configuration__Structure__definition.html#adb19ca7532081d23022ce2498ae6e805',1,'SMBUS_InitTypeDef::NoStretchMode()']]],
+  ['nsac_14915',['NSAC',['../group__MMC__Exported__Types__Group4.html#a1990b977fc6ba72d022e71293b0b8dc1',1,'HAL_MMC_CardCSDTypeDef::NSAC()'],['../group__SD__Exported__Types__Group4.html#ad1e4e53e354411d6142f69780c243bb8',1,'HAL_SD_CardCSDTypeDef::NSAC()']]],
+  ['nsbank_14916',['NSBank',['../group__FMC__LL__Exported__typedef.html#ad43ca00a46db6527d3ac3fde29ec20cb',1,'FMC_NORSRAM_InitTypeDef']]],
+  ['nss_14917',['NSS',['../group__SPI__Exported__Types.html#aed541d17808213ac6f90ac7deb2bec5f',1,'SPI_InitTypeDef::NSS()'],['../group__SPI__LL__ES__INIT.html#ac4f5c4c89fbd079f6e3a66967fe5efd5',1,'LL_SPI_InitTypeDef::NSS()']]],
+  ['nsspmode_14918',['NSSPMode',['../group__SPI__Exported__Types.html#aab94c82883ea08f33ef383efe30347eb',1,'SPI_InitTypeDef']]],
+  ['nullpacketsize_14919',['NullPacketSize',['../group__DSI.html#ab3904745bc349c97c3804b9731b8e200',1,'DSI_VidCfgTypeDef']]],
+  ['num_14920',['num',['../group__USB__LL.html#aff62dc6bdb5c950e67889243d03c8c98',1,'USB_OTG_EPTypeDef::num()'],['../group__USB__LL.html#a5bff14ed9095c95771a65fe3474ec679',1,'USB_EPTypeDef::num()']]],
+  ['numberofchunks_14921',['NumberOfChunks',['../group__DSI.html#a71edbbd7982c8b24f5c9ba835e3fdba2',1,'DSI_VidCfgTypeDef']]],
+  ['numberoflanes_14922',['NumberOfLanes',['../group__DSI.html#a103ea610c93cfbac712922488092d53c',1,'DSI_InitTypeDef']]]
+];

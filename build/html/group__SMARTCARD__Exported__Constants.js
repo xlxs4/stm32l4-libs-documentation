@@ -1,0 +1,25 @@
+var group__SMARTCARD__Exported__Constants =
+[
+    [ "SMARTCARD State Code Definition", "group__SMARTCARD__State__Definition.html", null ],
+    [ "SMARTCARD Error Code Definition", "group__SMARTCARD__Error__Definition.html", null ],
+    [ "SMARTCARD Word Length", "group__SMARTCARD__Word__Length.html", null ],
+    [ "SMARTCARD Number of Stop Bits", "group__SMARTCARD__Stop__Bits.html", null ],
+    [ "SMARTCARD Parity", "group__SMARTCARD__Parity.html", null ],
+    [ "SMARTCARD Transfer Mode", "group__SMARTCARD__Mode.html", null ],
+    [ "SMARTCARD Clock Polarity", "group__SMARTCARD__Clock__Polarity.html", null ],
+    [ "SMARTCARD Clock Phase", "group__SMARTCARD__Clock__Phase.html", null ],
+    [ "SMARTCARD Last Bit", "group__SMARTCARD__Last__Bit.html", null ],
+    [ "SMARTCARD One Bit Sampling Method", "group__SMARTCARD__OneBit__Sampling.html", null ],
+    [ "SMARTCARD NACK Enable", "group__SMARTCARD__NACK__Enable.html", null ],
+    [ "SMARTCARD Timeout Enable", "group__SMARTCARD__Timeout__Enable.html", null ],
+    [ "Clock Prescaler", "group__SMARTCARD__ClockPrescaler.html", null ],
+    [ "SMARTCARD advanced feature TX pin active level inversion", "group__SMARTCARD__Tx__Inv.html", null ],
+    [ "SMARTCARD advanced feature RX pin active level inversion", "group__SMARTCARD__Rx__Inv.html", null ],
+    [ "SMARTCARD advanced feature Binary Data inversion", "group__SMARTCARD__Data__Inv.html", null ],
+    [ "SMARTCARD advanced feature RX TX pins swap", "group__SMARTCARD__Rx__Tx__Swap.html", null ],
+    [ "SMARTCARD advanced feature Overrun Disable", "group__SMARTCARD__Overrun__Disable.html", null ],
+    [ "SMARTCARD advanced feature DMA Disable on Rx Error", "group__SMARTCARD__DMA__Disable__on__Rx__Error.html", null ],
+    [ "SMARTCARD advanced feature MSB first", "group__SMARTCARD__MSB__First.html", null ],
+    [ "SMARTCARD Request Parameters", "group__SMARTCARD__Request__Parameters.html", null ],
+    [ "SMARTCARD interruptions flags mask", "group__SMARTCARD__Interruption__Mask.html", null ]
+];

@@ -1,0 +1,48 @@
+var stm32l4xx__hal__swpmi_8h =
+[
+    [ "pSWPMI_CallbackTypeDef", "stm32l4xx__hal__swpmi_8h.html#aa395ed340324a1038e7bee8ef57a5b4b", null ],
+    [ "SWPMI_HandleTypeDef", "stm32l4xx__hal__swpmi_8h.html#ab32478106d273c49253a98a48efc24b2", null ],
+    [ "HAL_SWPMI_CallbackIDTypeDef", "stm32l4xx__hal__swpmi_8h.html#a60c29ee6a9fd33d9160261ead1c75181", [
+      [ "HAL_SWPMI_RX_COMPLETE_CB_ID", "stm32l4xx__hal__swpmi_8h.html#a60c29ee6a9fd33d9160261ead1c75181abff0392cc1e2dc4f75da4ce20dcc25ac", null ],
+      [ "HAL_SWPMI_RX_HALFCOMPLETE_CB_ID", "stm32l4xx__hal__swpmi_8h.html#a60c29ee6a9fd33d9160261ead1c75181ab6924687c0ca0763f7980a693e47f66a", null ],
+      [ "HAL_SWPMI_TX_COMPLETE_CB_ID", "stm32l4xx__hal__swpmi_8h.html#a60c29ee6a9fd33d9160261ead1c75181afdedae9d11722a3dea9797b2e09db41a", null ],
+      [ "HAL_SWPMI_TX_HALFCOMPLETE_CB_ID", "stm32l4xx__hal__swpmi_8h.html#a60c29ee6a9fd33d9160261ead1c75181a013cc41db211dfbd12a0fd05a3667e1f", null ],
+      [ "HAL_SWPMI_ERROR_CB_ID", "stm32l4xx__hal__swpmi_8h.html#a60c29ee6a9fd33d9160261ead1c75181a246a826999c1b71f4b30a12c9f101a70", null ],
+      [ "HAL_SWPMI_MSPINIT_CB_ID", "stm32l4xx__hal__swpmi_8h.html#a60c29ee6a9fd33d9160261ead1c75181a5eff568359b8ff5170735ea1be713af5", null ],
+      [ "HAL_SWPMI_MSPDEINIT_CB_ID", "stm32l4xx__hal__swpmi_8h.html#a60c29ee6a9fd33d9160261ead1c75181a780178459e3a1af0d3a8cb4c1f61d0da", null ]
+    ] ],
+    [ "HAL_SWPMI_StateTypeDef", "stm32l4xx__hal__swpmi_8h.html#a01ab59840df1ccdab0b1517ea4ee51da", [
+      [ "HAL_SWPMI_STATE_RESET", "stm32l4xx__hal__swpmi_8h.html#a01ab59840df1ccdab0b1517ea4ee51daa4a79fa0873635a39bbbe398561adaa5a", null ],
+      [ "HAL_SWPMI_STATE_READY", "stm32l4xx__hal__swpmi_8h.html#a01ab59840df1ccdab0b1517ea4ee51daafb021a1b574daa557d3ee6a16c6d1845", null ],
+      [ "HAL_SWPMI_STATE_BUSY", "stm32l4xx__hal__swpmi_8h.html#a01ab59840df1ccdab0b1517ea4ee51daa06b6f8884de989f214dc58b594f910c0", null ],
+      [ "HAL_SWPMI_STATE_BUSY_TX", "stm32l4xx__hal__swpmi_8h.html#a01ab59840df1ccdab0b1517ea4ee51daac88b36594120617a7d10f86331bd9607", null ],
+      [ "HAL_SWPMI_STATE_BUSY_RX", "stm32l4xx__hal__swpmi_8h.html#a01ab59840df1ccdab0b1517ea4ee51daadec8d4003a1a46108932be4607227e0a", null ],
+      [ "HAL_SWPMI_STATE_BUSY_TX_RX", "stm32l4xx__hal__swpmi_8h.html#a01ab59840df1ccdab0b1517ea4ee51daad8d84d8238483c7aa42240323a86d53e", null ],
+      [ "HAL_SWPMI_STATE_TIMEOUT", "stm32l4xx__hal__swpmi_8h.html#a01ab59840df1ccdab0b1517ea4ee51daa8d7a67a908e620b54e4ca18f225aaba7", null ],
+      [ "HAL_SWPMI_STATE_ERROR", "stm32l4xx__hal__swpmi_8h.html#a01ab59840df1ccdab0b1517ea4ee51daa54835b0d1b5ffe5d71ecb3b5c27c97c9", null ]
+    ] ],
+    [ "HAL_SWPMI_DeInit", "group__SWPMI__Exported__Functions.html#ga84cd863c79a335d762c786f6d91c12bd", null ],
+    [ "HAL_SWPMI_DisableLoopback", "group__SWPMI__Exported__Functions.html#ga82f1ac6da29a3449d6ef7728cc3b9173", null ],
+    [ "HAL_SWPMI_DMAStop", "group__SWPMI__Exported__Functions.html#ga0ffe7cb108f74d84b255f2fecc36d7a2", null ],
+    [ "HAL_SWPMI_EnableLoopback", "group__SWPMI__Exported__Functions.html#gaf1d5c0385128dd6048cf0604dde04707", null ],
+    [ "HAL_SWPMI_ErrorCallback", "group__SWPMI__Exported__Functions.html#gafd3fb9cd13640a0095923704830afc5c", null ],
+    [ "HAL_SWPMI_GetError", "group__SWPMI__Exported__Functions.html#ga26572dc6d8f3ee740c5158e20d1e1193", null ],
+    [ "HAL_SWPMI_GetState", "group__SWPMI__Exported__Functions.html#ga761c8de3ce056649842957b740c56dda", null ],
+    [ "HAL_SWPMI_Init", "group__SWPMI__Exported__Functions.html#gaa43b947d647c31782a0fc40d78db0a37", null ],
+    [ "HAL_SWPMI_IRQHandler", "group__SWPMI__Exported__Functions.html#gae91d339afc1307256db40b1055e4805e", null ],
+    [ "HAL_SWPMI_MspDeInit", "group__SWPMI__Exported__Functions.html#ga819e07fd6125e51f70e37acdbe729380", null ],
+    [ "HAL_SWPMI_MspInit", "group__SWPMI__Exported__Functions.html#ga6a948dd6d19d44aeb1e46a0d9f669f5f", null ],
+    [ "HAL_SWPMI_Receive", "group__SWPMI__Exported__Functions.html#gae4d4756e72e0866b4bdcd3822031864a", null ],
+    [ "HAL_SWPMI_Receive_DMA", "group__SWPMI__Exported__Functions.html#ga729d3efd7792f8c4d46a777473a6ee42", null ],
+    [ "HAL_SWPMI_Receive_IT", "group__SWPMI__Exported__Functions.html#ga796ae75b72ae0b891f81b2d1d6fd7ced", null ],
+    [ "HAL_SWPMI_RegisterCallback", "group__SWPMI__Exported__Functions.html#ga95a5def2d595a05851b1eb89838f8a72", null ],
+    [ "HAL_SWPMI_RxCpltCallback", "group__SWPMI__Exported__Functions.html#ga9438280c8444b37c09b626094a2d8c04", null ],
+    [ "HAL_SWPMI_RxHalfCpltCallback", "group__SWPMI__Exported__Functions.html#ga06e71fb02fb3e5949528e47372221769", null ],
+    [ "HAL_SWPMI_Transmit", "group__SWPMI__Exported__Functions.html#ga12f1e6db27e1566542d3400b063d84c9", null ],
+    [ "HAL_SWPMI_Transmit_DMA", "group__SWPMI__Exported__Functions.html#gac31ea0a79202eb1d438c74bb2d9bc9ad", null ],
+    [ "HAL_SWPMI_Transmit_IT", "group__SWPMI__Exported__Functions.html#ga131f01c0f679e3ab473da0d071d8a97e", null ],
+    [ "HAL_SWPMI_TxCpltCallback", "group__SWPMI__Exported__Functions.html#gaf28997325fa13f3b8bcee352bfcdcd8f", null ],
+    [ "HAL_SWPMI_TxHalfCpltCallback", "group__SWPMI__Exported__Functions.html#ga5cff0681f5c77884592f4daadb88d720", null ],
+    [ "HAL_SWPMI_UnRegisterCallback", "group__SWPMI__Exported__Functions.html#ga067b79f86a8d97de627acf271f92ad6f", null ],
+    [ "C", "stm32l4xx__hal__swpmi_8h.html#aaa53ca0b650dfd85c4f59fa156f7a2cc", null ]
+];

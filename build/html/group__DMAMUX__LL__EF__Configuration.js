@@ -1,0 +1,26 @@
+var group__DMAMUX__LL__EF__Configuration =
+[
+    [ "LL_DMAMUX_DisableEventGeneration", "group__DMAMUX__LL__EF__Configuration.html#ga57dd0d823df1fc7e278f4ea64585a663", null ],
+    [ "LL_DMAMUX_DisableRequestGen", "group__DMAMUX__LL__EF__Configuration.html#ga64e331e96f0234d770c5e24e32034291", null ],
+    [ "LL_DMAMUX_DisableSync", "group__DMAMUX__LL__EF__Configuration.html#ga3b06ccc9b21fefe353c72a2eead3625c", null ],
+    [ "LL_DMAMUX_EnableEventGeneration", "group__DMAMUX__LL__EF__Configuration.html#gafda10c2f0e78e2200a728527aed1bb63", null ],
+    [ "LL_DMAMUX_EnableRequestGen", "group__DMAMUX__LL__EF__Configuration.html#ga9d2542c188004e53b0456de4b7ace92e", null ],
+    [ "LL_DMAMUX_EnableSync", "group__DMAMUX__LL__EF__Configuration.html#gaaa167110fbda33393f6458179dbf70a4", null ],
+    [ "LL_DMAMUX_GetGenRequestNb", "group__DMAMUX__LL__EF__Configuration.html#gabc259e899fddf362427ec315ea08def2", null ],
+    [ "LL_DMAMUX_GetRequestGenPolarity", "group__DMAMUX__LL__EF__Configuration.html#ga991b8222069148b7b97768b9fdf5a096", null ],
+    [ "LL_DMAMUX_GetRequestID", "group__DMAMUX__LL__EF__Configuration.html#ga94282c90058e638d8cb0998e2bbbcfa1", null ],
+    [ "LL_DMAMUX_GetRequestSignalID", "group__DMAMUX__LL__EF__Configuration.html#ga2f47790b4244402456d5722bddefb7dd", null ],
+    [ "LL_DMAMUX_GetSyncID", "group__DMAMUX__LL__EF__Configuration.html#gab988a2e8e531ace8317c496bacc8b2de", null ],
+    [ "LL_DMAMUX_GetSyncPolarity", "group__DMAMUX__LL__EF__Configuration.html#gadbe8a02f3f3d021b435f8c6f6c229e96", null ],
+    [ "LL_DMAMUX_GetSyncRequestNb", "group__DMAMUX__LL__EF__Configuration.html#gabb6756d412c11b12ad61f9a8fca6213b", null ],
+    [ "LL_DMAMUX_IsEnabledEventGeneration", "group__DMAMUX__LL__EF__Configuration.html#ga92a25a6c3c4ebb50d437a1ff7b991ce6", null ],
+    [ "LL_DMAMUX_IsEnabledRequestGen", "group__DMAMUX__LL__EF__Configuration.html#ga94e646716f17f919cef4fb7399f222b4", null ],
+    [ "LL_DMAMUX_IsEnabledSync", "group__DMAMUX__LL__EF__Configuration.html#gad7e7c1f48012138f81ccbacac1db7765", null ],
+    [ "LL_DMAMUX_SetGenRequestNb", "group__DMAMUX__LL__EF__Configuration.html#ga43c684d3d1762e8c88ff2d6366622a34", null ],
+    [ "LL_DMAMUX_SetRequestGenPolarity", "group__DMAMUX__LL__EF__Configuration.html#gac3748768eb789eb0ecc796626c45e4c8", null ],
+    [ "LL_DMAMUX_SetRequestID", "group__DMAMUX__LL__EF__Configuration.html#gabb858ee3c4843d0f1c66e418702c4bc5", null ],
+    [ "LL_DMAMUX_SetRequestSignalID", "group__DMAMUX__LL__EF__Configuration.html#ga8f0dd873ccece313b1772facd394de24", null ],
+    [ "LL_DMAMUX_SetSyncID", "group__DMAMUX__LL__EF__Configuration.html#gaa0edf8a059efb5cc8663e428242f98d7", null ],
+    [ "LL_DMAMUX_SetSyncPolarity", "group__DMAMUX__LL__EF__Configuration.html#ga9b6e2e2702e1a2363970180daa56b1ef", null ],
+    [ "LL_DMAMUX_SetSyncRequestNb", "group__DMAMUX__LL__EF__Configuration.html#ga5fa9df1b3d2def5bfd445a3fe5d12faf", null ]
+];

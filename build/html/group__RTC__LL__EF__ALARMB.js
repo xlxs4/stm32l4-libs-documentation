@@ -1,0 +1,27 @@
+var group__RTC__LL__EF__ALARMB =
+[
+    [ "LL_RTC_ALMB_ConfigTime", "group__RTC__LL__EF__ALARMB.html#gada0f5b405d9ef5dbe08b077e8646c235", null ],
+    [ "LL_RTC_ALMB_Disable", "group__RTC__LL__EF__ALARMB.html#gad357d258e45ac37f3b7d240cd0bf5a72", null ],
+    [ "LL_RTC_ALMB_DisableWeekday", "group__RTC__LL__EF__ALARMB.html#gab6c8e71683b686453041fd5ddb66839c", null ],
+    [ "LL_RTC_ALMB_Enable", "group__RTC__LL__EF__ALARMB.html#ga35512a440726be791c2ee16061657c09", null ],
+    [ "LL_RTC_ALMB_EnableWeekday", "group__RTC__LL__EF__ALARMB.html#gac7c3368e1168f1a6956ed3ca21692bae", null ],
+    [ "LL_RTC_ALMB_GetDay", "group__RTC__LL__EF__ALARMB.html#gaec0ef07b584bb228905c25ed20bc6f9b", null ],
+    [ "LL_RTC_ALMB_GetHour", "group__RTC__LL__EF__ALARMB.html#gab47689f58118ddab8cdbc1447ff6ad23", null ],
+    [ "LL_RTC_ALMB_GetMask", "group__RTC__LL__EF__ALARMB.html#ga28befd24cc2db95626afffe620b7e99e", null ],
+    [ "LL_RTC_ALMB_GetMinute", "group__RTC__LL__EF__ALARMB.html#ga81133978dc6d106ae642c95aea2c7b14", null ],
+    [ "LL_RTC_ALMB_GetSecond", "group__RTC__LL__EF__ALARMB.html#ga272313b750390e967a92fc5b9d20d806", null ],
+    [ "LL_RTC_ALMB_GetSubSecond", "group__RTC__LL__EF__ALARMB.html#ga04cd9c307cc160debd6b07e3edefd5eb", null ],
+    [ "LL_RTC_ALMB_GetSubSecondMask", "group__RTC__LL__EF__ALARMB.html#ga11e080da409d6c277cae18d276cdac38", null ],
+    [ "LL_RTC_ALMB_GetTime", "group__RTC__LL__EF__ALARMB.html#gaae513ec17b30b426f0198caac47c5348", null ],
+    [ "LL_RTC_ALMB_GetTimeFormat", "group__RTC__LL__EF__ALARMB.html#gaa7d951f04119146cda7490690f5a4060", null ],
+    [ "LL_RTC_ALMB_GetWeekDay", "group__RTC__LL__EF__ALARMB.html#ga6402d783c2785176a7daaa7e01e35ed5", null ],
+    [ "LL_RTC_ALMB_SetDay", "group__RTC__LL__EF__ALARMB.html#gabfcef0d6b19f90cabb2bcbad8780b7ad", null ],
+    [ "LL_RTC_ALMB_SetHour", "group__RTC__LL__EF__ALARMB.html#ga1663545df7b4293532512c51ee5af230", null ],
+    [ "LL_RTC_ALMB_SetMask", "group__RTC__LL__EF__ALARMB.html#ga1e81b3d5d07bd876fcd1596f5d23db18", null ],
+    [ "LL_RTC_ALMB_SetMinute", "group__RTC__LL__EF__ALARMB.html#gadaca51844ab484597cb885430aacddc4", null ],
+    [ "LL_RTC_ALMB_SetSecond", "group__RTC__LL__EF__ALARMB.html#gaa5cc4a64dec357567a386c8485fd07fd", null ],
+    [ "LL_RTC_ALMB_SetSubSecond", "group__RTC__LL__EF__ALARMB.html#gabcb497ac8a950f30f08b3b52f460cdba", null ],
+    [ "LL_RTC_ALMB_SetSubSecondMask", "group__RTC__LL__EF__ALARMB.html#ga4a1fcdc8ca164cfb67ce4a328d553fe8", null ],
+    [ "LL_RTC_ALMB_SetTimeFormat", "group__RTC__LL__EF__ALARMB.html#ga33efb66f198967a84b20a4b51272f12b", null ],
+    [ "LL_RTC_ALMB_SetWeekDay", "group__RTC__LL__EF__ALARMB.html#ga1981f11a35b343feb3bd019b1b48e84b", null ]
+];

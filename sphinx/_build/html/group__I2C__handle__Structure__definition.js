@@ -1,0 +1,48 @@
+var group__I2C__handle__Structure__definition =
+[
+    [ "__I2C_HandleTypeDef", "group__I2C__handle__Structure__definition.html#struct____I2C__HandleTypeDef", [
+      [ "AbortCpltCallback", "group__I2C__handle__Structure__definition.html#a96c4b7400161db2d5834dc94cc265fed", null ],
+      [ "AddrCallback", "group__I2C__handle__Structure__definition.html#a797ae509613efa304a010bea0ba03ed8", null ],
+      [ "AddrEventCount", "group__I2C__handle__Structure__definition.html#ac46ddd083fcc3901fa63c96387243c25", null ],
+      [ "ErrorCallback", "group__I2C__handle__Structure__definition.html#a0bc7d6809a763ddbbc91acc6efeec1b3", null ],
+      [ "ErrorCode", "group__I2C__handle__Structure__definition.html#a824099e364465827123cda831284f643", null ],
+      [ "hdmarx", "group__I2C__handle__Structure__definition.html#a52dcaac577eef13388d209f3f5a6a4b9", null ],
+      [ "hdmatx", "group__I2C__handle__Structure__definition.html#ad8f3153daebc780294797b448decb190", null ],
+      [ "Init", "group__I2C__handle__Structure__definition.html#a8e665bc833889975a33b10bebeab5db2", null ],
+      [ "Instance", "group__I2C__handle__Structure__definition.html#a080380e6051dd88c3a88c24aad4b10c0", null ],
+      [ "ListenCpltCallback", "group__I2C__handle__Structure__definition.html#a2520f5988574742c6d35a83d0cd7b763", null ],
+      [ "Lock", "group__I2C__handle__Structure__definition.html#a96ba2c1a4eee1bbbe791b29e81c4c013", null ],
+      [ "MasterRxCpltCallback", "group__I2C__handle__Structure__definition.html#a5909c0e14c7b208e3319695e254fdede", null ],
+      [ "MasterTxCpltCallback", "group__I2C__handle__Structure__definition.html#a3364d936450fa5c64a3cede5cceccb84", null ],
+      [ "MemRxCpltCallback", "group__I2C__handle__Structure__definition.html#a2467abd6d838aaddeae2d3b45ae57ea5", null ],
+      [ "MemTxCpltCallback", "group__I2C__handle__Structure__definition.html#a410a0b58874a4f7aa44ed2a05fd6ca36", null ],
+      [ "Mode", "group__I2C__handle__Structure__definition.html#a9e1687f431eaba605b2ae49c1e3ff641", null ],
+      [ "MspDeInitCallback", "group__I2C__handle__Structure__definition.html#a2fd9a37c969a86c9b749ea65fbc0ca23", null ],
+      [ "MspInitCallback", "group__I2C__handle__Structure__definition.html#a18472caf27670fa1e26fad92d2a2082d", null ],
+      [ "pBuffPtr", "group__I2C__handle__Structure__definition.html#af699cc26b19f28b9215d3d4a167f068e", null ],
+      [ "PreviousState", "group__I2C__handle__Structure__definition.html#a028d3e824c01ccc6c9a23bb5802e3313", null ],
+      [ "SlaveRxCpltCallback", "group__I2C__handle__Structure__definition.html#a7d9c6f686293276a01927accc5470f75", null ],
+      [ "SlaveTxCpltCallback", "group__I2C__handle__Structure__definition.html#a9cefc26ac6a624267e91715031a1cb7f", null ],
+      [ "State", "group__I2C__handle__Structure__definition.html#a3421cd62d9e34c4a5ff1706916c8ae7a", null ],
+      [ "XferCount", "group__I2C__handle__Structure__definition.html#a314305a14bb912531cfc3c5f87291777", null ],
+      [ "XferISR", "group__I2C__handle__Structure__definition.html#a27f4f768395d68659c29ba55727182a2", null ],
+      [ "XferOptions", "group__I2C__handle__Structure__definition.html#a5d3ace2bbb83f44d4fe3df47fa42bb90", null ],
+      [ "XferSize", "group__I2C__handle__Structure__definition.html#a1b8a62241b4c22d97af542186cef0c39", null ]
+    ] ],
+    [ "I2C_HandleTypeDef", "group__I2C__handle__Structure__definition.html#ga68e9f45c2fd2161fb827ccdeabb55ea5", null ],
+    [ "pI2C_AddrCallbackTypeDef", "group__I2C__handle__Structure__definition.html#ga4e03a54e2ceb45bf874aeed6e230f003", null ],
+    [ "pI2C_CallbackTypeDef", "group__I2C__handle__Structure__definition.html#ga05fd07b265a17c2ecdd46f670affab59", null ],
+    [ "HAL_I2C_CallbackIDTypeDef", "group__I2C__handle__Structure__definition.html#ga917f9dd1ff6749c1fa1bb27736db7764", [
+      [ "HAL_I2C_MASTER_TX_COMPLETE_CB_ID", "group__I2C__handle__Structure__definition.html#gga917f9dd1ff6749c1fa1bb27736db7764a0c827ab2e5f64ad636d791f5fb8833fe", null ],
+      [ "HAL_I2C_MASTER_RX_COMPLETE_CB_ID", "group__I2C__handle__Structure__definition.html#gga917f9dd1ff6749c1fa1bb27736db7764a1e1f0a9a138201b4afad1ba7b886353f", null ],
+      [ "HAL_I2C_SLAVE_TX_COMPLETE_CB_ID", "group__I2C__handle__Structure__definition.html#gga917f9dd1ff6749c1fa1bb27736db7764a9ff4dcf408400ac4477b59e6f8f90d25", null ],
+      [ "HAL_I2C_SLAVE_RX_COMPLETE_CB_ID", "group__I2C__handle__Structure__definition.html#gga917f9dd1ff6749c1fa1bb27736db7764ab7044545bc20ae0f29245065cefaef02", null ],
+      [ "HAL_I2C_LISTEN_COMPLETE_CB_ID", "group__I2C__handle__Structure__definition.html#gga917f9dd1ff6749c1fa1bb27736db7764a87b3897f66eca8aa3007868f85d88057", null ],
+      [ "HAL_I2C_MEM_TX_COMPLETE_CB_ID", "group__I2C__handle__Structure__definition.html#gga917f9dd1ff6749c1fa1bb27736db7764ae9747b56a859174b665c870e71a8f5fa", null ],
+      [ "HAL_I2C_MEM_RX_COMPLETE_CB_ID", "group__I2C__handle__Structure__definition.html#gga917f9dd1ff6749c1fa1bb27736db7764a16748ed973208c333f0fd4dac536fafc", null ],
+      [ "HAL_I2C_ERROR_CB_ID", "group__I2C__handle__Structure__definition.html#gga917f9dd1ff6749c1fa1bb27736db7764a8151c294b18994802627c8e196eda1ef", null ],
+      [ "HAL_I2C_ABORT_CB_ID", "group__I2C__handle__Structure__definition.html#gga917f9dd1ff6749c1fa1bb27736db7764ad47ca04bf5ac94b89c68fe8fcc656d0c", null ],
+      [ "HAL_I2C_MSPINIT_CB_ID", "group__I2C__handle__Structure__definition.html#gga917f9dd1ff6749c1fa1bb27736db7764a1078f5ac552d0138d6941d4cf48e6e91", null ],
+      [ "HAL_I2C_MSPDEINIT_CB_ID", "group__I2C__handle__Structure__definition.html#gga917f9dd1ff6749c1fa1bb27736db7764a6b6a6817ea85a35d2f15187c6d459dac", null ]
+    ] ]
+];

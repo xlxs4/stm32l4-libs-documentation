@@ -1,0 +1,28 @@
+var stm32l4xx__ll__cortex_8h =
+[
+    [ "LL_CPUID_GetConstant", "group__CORTEX__LL__EF__MCU__INFO.html#ga787f8b30eaa7a4c304fd5784daa98d6c", null ],
+    [ "LL_CPUID_GetImplementer", "group__CORTEX__LL__EF__MCU__INFO.html#ga648a5236b7fa08786086fcc4ce42b4b9", null ],
+    [ "LL_CPUID_GetParNo", "group__CORTEX__LL__EF__MCU__INFO.html#gac98fd56ad9162c3f372004bd07038bdb", null ],
+    [ "LL_CPUID_GetRevision", "group__CORTEX__LL__EF__MCU__INFO.html#ga7372821defd92c49ea4563da407acd01", null ],
+    [ "LL_CPUID_GetVariant", "group__CORTEX__LL__EF__MCU__INFO.html#ga1f843da5f8524bace7fcf8dcce7996cb", null ],
+    [ "LL_HANDLER_DisableFault", "group__CORTEX__LL__EF__HANDLER.html#ga8b6826c996c587651a651a6138c44e1e", null ],
+    [ "LL_HANDLER_EnableFault", "group__CORTEX__LL__EF__HANDLER.html#ga904eb6ce46a723dd47b468241c6b0a2c", null ],
+    [ "LL_LPM_DisableEventOnPend", "group__CORTEX__LL__EF__LOW__POWER__MODE.html#gaf4ebb8351f09676067aa0ce1fe08321b", null ],
+    [ "LL_LPM_DisableSleepOnExit", "group__CORTEX__LL__EF__LOW__POWER__MODE.html#ga88768c6c5f53de30a647123241451eb9", null ],
+    [ "LL_LPM_EnableDeepSleep", "group__CORTEX__LL__EF__LOW__POWER__MODE.html#ga37d70238e98ca1214e3fe4113b119474", null ],
+    [ "LL_LPM_EnableEventOnPend", "group__CORTEX__LL__EF__LOW__POWER__MODE.html#gaf1c01ae00b4a13c5b6531f82a9677b90", null ],
+    [ "LL_LPM_EnableSleep", "group__CORTEX__LL__EF__LOW__POWER__MODE.html#gab55eabc37e5abe00df558c0ba1c37508", null ],
+    [ "LL_LPM_EnableSleepOnExit", "group__CORTEX__LL__EF__LOW__POWER__MODE.html#gabb2b2648dff19d88209af8761fc34c30", null ],
+    [ "LL_MPU_ConfigRegion", "group__CORTEX__LL__EF__MPU.html#ga88a67b4888559c9725204040ce02165f", null ],
+    [ "LL_MPU_Disable", "group__CORTEX__LL__EF__MPU.html#ga1aecfe8d358eeed0d8209dfeb30ca492", null ],
+    [ "LL_MPU_DisableRegion", "group__CORTEX__LL__EF__MPU.html#gaf7902670703d7dcd0637d09332c0a18b", null ],
+    [ "LL_MPU_Enable", "group__CORTEX__LL__EF__MPU.html#gadfc89bc970062fa1e0907e129fda1ea6", null ],
+    [ "LL_MPU_EnableRegion", "group__CORTEX__LL__EF__MPU.html#ga6a3f53f1d6e0b089ff4ea1e3ff7141d3", null ],
+    [ "LL_MPU_IsEnabled", "group__CORTEX__LL__EF__MPU.html#ga96749c3a8af92f45d2087a72acfba977", null ],
+    [ "LL_SYSTICK_DisableIT", "group__CORTEX__LL__EF__SYSTICK.html#ga11d0d066050805c9e8d24718d8a15e4d", null ],
+    [ "LL_SYSTICK_EnableIT", "group__CORTEX__LL__EF__SYSTICK.html#ga770fac4394ddde9a53e1a236c81538f0", null ],
+    [ "LL_SYSTICK_GetClkSource", "group__CORTEX__LL__EF__SYSTICK.html#ga2cfeb1396db13a9fbc208cc659064b19", null ],
+    [ "LL_SYSTICK_IsActiveCounterFlag", "group__CORTEX__LL__EF__SYSTICK.html#gaf5dfb37d859552753594f9cc66431ba6", null ],
+    [ "LL_SYSTICK_IsEnabledIT", "group__CORTEX__LL__EF__SYSTICK.html#gab34484042fd5a82aa80ba94223b6fbde", null ],
+    [ "LL_SYSTICK_SetClkSource", "group__CORTEX__LL__EF__SYSTICK.html#gaaf98ae8e0298b44c5d58a3ba9ef358f7", null ]
+];

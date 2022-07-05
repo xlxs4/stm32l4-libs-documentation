@@ -1,0 +1,27 @@
+var group__RTC__LL__EF__ALARMA =
+[
+    [ "LL_RTC_ALMA_ConfigTime", "group__RTC__LL__EF__ALARMA.html#ga9937ff6e34a29ea67b20d9c1f4559f08", null ],
+    [ "LL_RTC_ALMA_Disable", "group__RTC__LL__EF__ALARMA.html#gad430c5bd577ea100659751fb245a0fb5", null ],
+    [ "LL_RTC_ALMA_DisableWeekday", "group__RTC__LL__EF__ALARMA.html#ga30e17999c0542dddcb3cf074b3fc6ad3", null ],
+    [ "LL_RTC_ALMA_Enable", "group__RTC__LL__EF__ALARMA.html#ga31351f6c462c1ecde2d25daba2e8de54", null ],
+    [ "LL_RTC_ALMA_EnableWeekday", "group__RTC__LL__EF__ALARMA.html#gadb37ef49c3180e02662fcac7cc9c4ec4", null ],
+    [ "LL_RTC_ALMA_GetDay", "group__RTC__LL__EF__ALARMA.html#gaf8320324014c634d2f03d719945c5214", null ],
+    [ "LL_RTC_ALMA_GetHour", "group__RTC__LL__EF__ALARMA.html#ga25d832374729bdc02e3e95387b5952be", null ],
+    [ "LL_RTC_ALMA_GetMask", "group__RTC__LL__EF__ALARMA.html#gabdcc06bd72f24e2863d3a27d0a62182c", null ],
+    [ "LL_RTC_ALMA_GetMinute", "group__RTC__LL__EF__ALARMA.html#gad0e28464f04c6de1612f504d5faa5ea8", null ],
+    [ "LL_RTC_ALMA_GetSecond", "group__RTC__LL__EF__ALARMA.html#gab85a474017f204d8d7283e4b3133322a", null ],
+    [ "LL_RTC_ALMA_GetSubSecond", "group__RTC__LL__EF__ALARMA.html#ga0496a32663cd92a0dc7d6edf1932b908", null ],
+    [ "LL_RTC_ALMA_GetSubSecondMask", "group__RTC__LL__EF__ALARMA.html#ga28000182ea247dcf0dddf2d44820cfe9", null ],
+    [ "LL_RTC_ALMA_GetTime", "group__RTC__LL__EF__ALARMA.html#ga40feda0ed0cad5ff3b5f99076752af11", null ],
+    [ "LL_RTC_ALMA_GetTimeFormat", "group__RTC__LL__EF__ALARMA.html#ga15ac863a3045b413691448476d1881d6", null ],
+    [ "LL_RTC_ALMA_GetWeekDay", "group__RTC__LL__EF__ALARMA.html#ga3459662a9adb907910d697fd774d09c4", null ],
+    [ "LL_RTC_ALMA_SetDay", "group__RTC__LL__EF__ALARMA.html#ga13cb0a27b18c77658716d4f053565a1e", null ],
+    [ "LL_RTC_ALMA_SetHour", "group__RTC__LL__EF__ALARMA.html#ga5ecd190cafdd6d5c065650f621ad8b5b", null ],
+    [ "LL_RTC_ALMA_SetMask", "group__RTC__LL__EF__ALARMA.html#ga09872e93f918d2784363e13335b97fc9", null ],
+    [ "LL_RTC_ALMA_SetMinute", "group__RTC__LL__EF__ALARMA.html#ga76f8770a6c4794e3e9870bbe4451b797", null ],
+    [ "LL_RTC_ALMA_SetSecond", "group__RTC__LL__EF__ALARMA.html#gaeaf74f082545a5cf2b8bfc70f68c91df", null ],
+    [ "LL_RTC_ALMA_SetSubSecond", "group__RTC__LL__EF__ALARMA.html#ga0fa41af716e3e58ea39acf388a21c3da", null ],
+    [ "LL_RTC_ALMA_SetSubSecondMask", "group__RTC__LL__EF__ALARMA.html#ga580c2f85b2e21ddb3fa4e07dfeb002ec", null ],
+    [ "LL_RTC_ALMA_SetTimeFormat", "group__RTC__LL__EF__ALARMA.html#ga40d71be4816bb467bc05f170a407879b", null ],
+    [ "LL_RTC_ALMA_SetWeekDay", "group__RTC__LL__EF__ALARMA.html#ga4a1c319400003c6234940f2bce0bf269", null ]
+];

@@ -1,0 +1,27 @@
+var group__QSPI__Exported__Functions__Group2 =
+[
+    [ "HAL_QSPI_AbortCpltCallback", "group__QSPI__Exported__Functions__Group2.html#ga71fd11d44bcb5694eee9f31c6281b52c", null ],
+    [ "HAL_QSPI_AutoPolling", "group__QSPI__Exported__Functions__Group2.html#ga05c816f092fcbf363125707a1a35e5ce", null ],
+    [ "HAL_QSPI_AutoPolling_IT", "group__QSPI__Exported__Functions__Group2.html#gaaa79e38c8be2c252021ee92e959505e7", null ],
+    [ "HAL_QSPI_CmdCpltCallback", "group__QSPI__Exported__Functions__Group2.html#gad4eb6508fae682bc5ec4e9206053d1f6", null ],
+    [ "HAL_QSPI_Command", "group__QSPI__Exported__Functions__Group2.html#ga085c4e2ed3350a34b7ebd94fd7fff022", null ],
+    [ "HAL_QSPI_Command_IT", "group__QSPI__Exported__Functions__Group2.html#ga654bb61474682bbbe2ebd6b9e0b9f1c9", null ],
+    [ "HAL_QSPI_ErrorCallback", "group__QSPI__Exported__Functions__Group2.html#gabe68547341c3c23890a121f03a04b740", null ],
+    [ "HAL_QSPI_FifoThresholdCallback", "group__QSPI__Exported__Functions__Group2.html#ga5725e6198d5504042c0a5a6a3acb91b6", null ],
+    [ "HAL_QSPI_IRQHandler", "group__QSPI__Exported__Functions__Group2.html#ga6fd2cd646c0265c729168a2d93ecfd2c", null ],
+    [ "HAL_QSPI_MemoryMapped", "group__QSPI__Exported__Functions__Group2.html#ga05b7691b374151d1e6282e8414933e4b", null ],
+    [ "HAL_QSPI_Receive", "group__QSPI__Exported__Functions__Group2.html#ga4b27d1a633c1b35c89d9bbd7a550a33b", null ],
+    [ "HAL_QSPI_Receive_DMA", "group__QSPI__Exported__Functions__Group2.html#ga01812804f5419f3029dcb4799896c6ad", null ],
+    [ "HAL_QSPI_Receive_IT", "group__QSPI__Exported__Functions__Group2.html#ga71afe3cff2e0e1052189a49bd3b3efc1", null ],
+    [ "HAL_QSPI_RegisterCallback", "group__QSPI__Exported__Functions__Group2.html#ga708c39f5e8a9378710c2b6af97c5421d", null ],
+    [ "HAL_QSPI_RxCpltCallback", "group__QSPI__Exported__Functions__Group2.html#ga8f791ec55c42ade6ad5f6475a9f5bdb5", null ],
+    [ "HAL_QSPI_RxHalfCpltCallback", "group__QSPI__Exported__Functions__Group2.html#gaa07b0772781cab458ca0243ba7bae983", null ],
+    [ "HAL_QSPI_StatusMatchCallback", "group__QSPI__Exported__Functions__Group2.html#gafe0f092cb1dce1a5509f4bd79714d686", null ],
+    [ "HAL_QSPI_TimeOutCallback", "group__QSPI__Exported__Functions__Group2.html#ga642f1612fa37d6aa5484159fad9c32b9", null ],
+    [ "HAL_QSPI_Transmit", "group__QSPI__Exported__Functions__Group2.html#ga4109f25b6ff5d53df1d520eeb1cecf79", null ],
+    [ "HAL_QSPI_Transmit_DMA", "group__QSPI__Exported__Functions__Group2.html#ga5185d60d15802bf52d1e3eac54358d8e", null ],
+    [ "HAL_QSPI_Transmit_IT", "group__QSPI__Exported__Functions__Group2.html#ga1da2153118e4885f8419aed18bb32b4e", null ],
+    [ "HAL_QSPI_TxCpltCallback", "group__QSPI__Exported__Functions__Group2.html#ga2cdde4d3cb4b1ac54a0ba8899ae210a9", null ],
+    [ "HAL_QSPI_TxHalfCpltCallback", "group__QSPI__Exported__Functions__Group2.html#gafe2811d406cedd28c0651f09e3e28f7a", null ],
+    [ "HAL_QSPI_UnRegisterCallback", "group__QSPI__Exported__Functions__Group2.html#gaf94520809459421c976a6484fac0cb44", null ]
+];

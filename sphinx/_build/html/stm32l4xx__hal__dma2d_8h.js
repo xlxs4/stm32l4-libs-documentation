@@ -1,0 +1,76 @@
+var stm32l4xx__hal__dma2d_8h =
+[
+    [ "DMA2D_CLUTCfgTypeDef", "stm32l4xx__hal__dma2d_8h.html#structDMA2D__CLUTCfgTypeDef", [
+      [ "CLUTColorMode", "stm32l4xx__hal__dma2d_8h.html#a9a1421b65d3a100ee925d54c3e3e6b70", null ],
+      [ "pCLUT", "stm32l4xx__hal__dma2d_8h.html#a43e4d100c0e12948f5e13ade4cb8c05d", null ],
+      [ "Size", "stm32l4xx__hal__dma2d_8h.html#ab10d03d1cb27cf5d587877f3c082689e", null ]
+    ] ],
+    [ "DMA2D_InitTypeDef", "stm32l4xx__hal__dma2d_8h.html#structDMA2D__InitTypeDef", [
+      [ "AlphaInverted", "stm32l4xx__hal__dma2d_8h.html#a11688cad6fdda5dadd5a902c9a6ab8ea", null ],
+      [ "BytesSwap", "stm32l4xx__hal__dma2d_8h.html#acaa43348905884cf24055143da691eca", null ],
+      [ "ColorMode", "stm32l4xx__hal__dma2d_8h.html#aa126665dafb4063c0629feaf6f5d63ef", null ],
+      [ "LineOffsetMode", "stm32l4xx__hal__dma2d_8h.html#a51ca7aea18db8c223c2fd78a3be6b0c9", null ],
+      [ "Mode", "stm32l4xx__hal__dma2d_8h.html#af59a2b285169b974cc7b846079017812", null ],
+      [ "OutputOffset", "stm32l4xx__hal__dma2d_8h.html#a4553ad1e8533e8276b8ee3cdff6eca48", null ],
+      [ "RedBlueSwap", "stm32l4xx__hal__dma2d_8h.html#a0dc4d881316338c66e57aa0238a7926e", null ]
+    ] ],
+    [ "DMA2D_LayerCfgTypeDef", "stm32l4xx__hal__dma2d_8h.html#structDMA2D__LayerCfgTypeDef", [
+      [ "AlphaInverted", "stm32l4xx__hal__dma2d_8h.html#aa7620409a16b41f8d93604f805738bd6", null ],
+      [ "AlphaMode", "stm32l4xx__hal__dma2d_8h.html#a91f0cc7498b621c9bc432ec000891b79", null ],
+      [ "InputAlpha", "stm32l4xx__hal__dma2d_8h.html#a24da534584a507872f12c067e014c879", null ],
+      [ "InputColorMode", "stm32l4xx__hal__dma2d_8h.html#a3037805a071c9f5fd03fe5b0e6969997", null ],
+      [ "InputOffset", "stm32l4xx__hal__dma2d_8h.html#a7f115713cd96c51717f45b47cea3d549", null ],
+      [ "RedBlueSwap", "stm32l4xx__hal__dma2d_8h.html#a56339a102e2fb7638254213102132e02", null ]
+    ] ],
+    [ "__DMA2D_HandleTypeDef", "struct____DMA2D__HandleTypeDef.html", "struct____DMA2D__HandleTypeDef" ],
+    [ "DMA2D_HandleTypeDef", "stm32l4xx__hal__dma2d_8h.html#abb8da1cec3cc18bbb301618087d3ad31", null ],
+    [ "pDMA2D_CallbackTypeDef", "stm32l4xx__hal__dma2d_8h.html#a150bff21f6ed23c5d8f30a914170cc90", null ],
+    [ "HAL_DMA2D_CallbackIDTypeDef", "group__DMA2D__Exported__Constants.html#ga78e8f3353134564b7eef91fc7b181f1b", [
+      [ "HAL_DMA2D_MSPINIT_CB_ID", "group__DMA2D__Exported__Constants.html#gga78e8f3353134564b7eef91fc7b181f1ba1c2728651db246efab0bdb55c67d3069", null ],
+      [ "HAL_DMA2D_MSPDEINIT_CB_ID", "group__DMA2D__Exported__Constants.html#gga78e8f3353134564b7eef91fc7b181f1bad31923269002b83e2beaabc366b5e091", null ],
+      [ "HAL_DMA2D_TRANSFERCOMPLETE_CB_ID", "group__DMA2D__Exported__Constants.html#gga78e8f3353134564b7eef91fc7b181f1baf095d8f3c1ebb82c4c4374edb244ca24", null ],
+      [ "HAL_DMA2D_TRANSFERERROR_CB_ID", "group__DMA2D__Exported__Constants.html#gga78e8f3353134564b7eef91fc7b181f1ba782ca12d3f7f72490680a369d531cbbc", null ],
+      [ "HAL_DMA2D_LINEEVENT_CB_ID", "group__DMA2D__Exported__Constants.html#gga78e8f3353134564b7eef91fc7b181f1ba5671cf466bd9fc6f2cd266167123fdec", null ],
+      [ "HAL_DMA2D_CLUTLOADINGCPLT_CB_ID", "group__DMA2D__Exported__Constants.html#gga78e8f3353134564b7eef91fc7b181f1ba31bfb32111c750655ee72b6f6aaa7839", null ]
+    ] ],
+    [ "HAL_DMA2D_StateTypeDef", "stm32l4xx__hal__dma2d_8h.html#a53c9223d7efc7e2fa7fbd3c51c7ac6c3", [
+      [ "HAL_DMA2D_STATE_RESET", "stm32l4xx__hal__dma2d_8h.html#a53c9223d7efc7e2fa7fbd3c51c7ac6c3a08acbc9316d257e8260773a392eafc84", null ],
+      [ "HAL_DMA2D_STATE_READY", "stm32l4xx__hal__dma2d_8h.html#a53c9223d7efc7e2fa7fbd3c51c7ac6c3ad9ce805ef56df430e9f3c4d18374d326", null ],
+      [ "HAL_DMA2D_STATE_BUSY", "stm32l4xx__hal__dma2d_8h.html#a53c9223d7efc7e2fa7fbd3c51c7ac6c3ad4486b6435c215049cbaf7f4315ac388", null ],
+      [ "HAL_DMA2D_STATE_TIMEOUT", "stm32l4xx__hal__dma2d_8h.html#a53c9223d7efc7e2fa7fbd3c51c7ac6c3afc107bb56cce900b2d8f813c2d2a8f5a", null ],
+      [ "HAL_DMA2D_STATE_ERROR", "stm32l4xx__hal__dma2d_8h.html#a53c9223d7efc7e2fa7fbd3c51c7ac6c3ad049b9e9a4c94404d4b357fb44d942c6", null ],
+      [ "HAL_DMA2D_STATE_SUSPEND", "stm32l4xx__hal__dma2d_8h.html#a53c9223d7efc7e2fa7fbd3c51c7ac6c3ab2c5d01beccd853aab1a7d377e80b49b", null ]
+    ] ],
+    [ "HAL_DMA2D_Abort", "group__DMA2D__Exported__Functions__Group2.html#ga9acc328284afcc46852e802c7df5d314", null ],
+    [ "HAL_DMA2D_BlendingStart", "group__DMA2D__Exported__Functions__Group2.html#gaeea72d8d5745c400ee64e5744b6e3162", null ],
+    [ "HAL_DMA2D_BlendingStart_IT", "group__DMA2D__Exported__Functions__Group2.html#ga9bae4c7ebdfbacb886d47c7fe39a4aa3", null ],
+    [ "HAL_DMA2D_CLUTLoad", "group__DMA2D__Exported__Functions__Group2.html#ga4bd4fc06f28eefa0443b0803b39b2457", null ],
+    [ "HAL_DMA2D_CLUTLoad_IT", "group__DMA2D__Exported__Functions__Group2.html#gab8d4a2b4d827e313e774d408a81d2f8c", null ],
+    [ "HAL_DMA2D_CLUTLoading_Abort", "group__DMA2D__Exported__Functions__Group2.html#ga3e83ddbd22e42d9113898c9891613995", null ],
+    [ "HAL_DMA2D_CLUTLoading_Resume", "group__DMA2D__Exported__Functions__Group2.html#ga7c934fe5316c5f0b52b9eb4f35da4775", null ],
+    [ "HAL_DMA2D_CLUTLoading_Suspend", "group__DMA2D__Exported__Functions__Group2.html#ga582f7e076dd03dbb24864a1c9bfa0c37", null ],
+    [ "HAL_DMA2D_CLUTLoadingCpltCallback", "group__DMA2D__Exported__Functions__Group2.html#ga120d9e00047152d8c5960d036ed90671", null ],
+    [ "HAL_DMA2D_ConfigCLUT", "group__DMA2D__Exported__Functions__Group3.html#gab0bc04c3e5f23846017c72d5a0736b76", null ],
+    [ "HAL_DMA2D_ConfigDeadTime", "group__DMA2D__Exported__Functions__Group3.html#ga7e42d880588f01bd3c78afb2ae4af23a", null ],
+    [ "HAL_DMA2D_ConfigLayer", "group__DMA2D__Exported__Functions__Group3.html#gad3d0694f452dd213db12560c1a26eec9", null ],
+    [ "HAL_DMA2D_DeInit", "group__DMA2D__Exported__Functions__Group1.html#ga3b7a79a8db7c702103df6b385f677307", null ],
+    [ "HAL_DMA2D_DisableDeadTime", "group__DMA2D__Exported__Functions__Group3.html#gaaba5d21b2372c8e03eb17fd985eec5cc", null ],
+    [ "HAL_DMA2D_EnableCLUT", "group__DMA2D__Exported__Functions__Group2.html#ga0a128663eebfbaad2e2a29f3ff21fd6a", null ],
+    [ "HAL_DMA2D_EnableDeadTime", "group__DMA2D__Exported__Functions__Group3.html#ga6b6422431fc54406b62e5b045c27a4a3", null ],
+    [ "HAL_DMA2D_GetError", "group__DMA2D__Exported__Functions__Group4.html#ga8bfc8202ae6dba92532afdf7d820017a", null ],
+    [ "HAL_DMA2D_GetState", "group__DMA2D__Exported__Functions__Group4.html#ga6245217c0789e7b3a920c17a6512642a", null ],
+    [ "HAL_DMA2D_Init", "group__DMA2D__Exported__Functions__Group1.html#gac1c60b0d52a440e485e3d46ae75caf01", null ],
+    [ "HAL_DMA2D_IRQHandler", "group__DMA2D__Exported__Functions__Group2.html#ga773702d35450980516f554f75f431447", null ],
+    [ "HAL_DMA2D_LineEventCallback", "group__DMA2D__Exported__Functions__Group2.html#ga3492ed672c73b2ff5299de7cd9810b35", null ],
+    [ "HAL_DMA2D_MspDeInit", "group__DMA2D__Exported__Functions__Group1.html#ga446814279b1a5f4294b2c036c325e00d", null ],
+    [ "HAL_DMA2D_MspInit", "group__DMA2D__Exported__Functions__Group1.html#gaf6a4bd76bc62fc9c57178f96898ab106", null ],
+    [ "HAL_DMA2D_PollForTransfer", "group__DMA2D__Exported__Functions__Group2.html#ga1a9f13c42c365569eb78a452719ab3df", null ],
+    [ "HAL_DMA2D_ProgramLineEvent", "group__DMA2D__Exported__Functions__Group3.html#ga3bb18466a9000e98bec46c2d89148a2b", null ],
+    [ "HAL_DMA2D_RegisterCallback", "group__DMA2D__Exported__Functions__Group1.html#ga062336cfc63826accbf935f9df4c26e6", null ],
+    [ "HAL_DMA2D_Resume", "group__DMA2D__Exported__Functions__Group2.html#ga2f79c578b03b113903663a71f1a49c4a", null ],
+    [ "HAL_DMA2D_Start", "group__DMA2D__Exported__Functions__Group2.html#ga5d70385a3cb4c197b9cc2ad72090e890", null ],
+    [ "HAL_DMA2D_Start_IT", "group__DMA2D__Exported__Functions__Group2.html#ga068558afed43357ef5b87bb5f52c638d", null ],
+    [ "HAL_DMA2D_Suspend", "group__DMA2D__Exported__Functions__Group2.html#gae88894de32f76a4df8ed19fc3ec3c848", null ],
+    [ "HAL_DMA2D_UnRegisterCallback", "group__DMA2D__Exported__Functions__Group1.html#ga014336e291facee92a118aa81a059a43", null ],
+    [ "C", "stm32l4xx__hal__dma2d_8h.html#aaa53ca0b650dfd85c4f59fa156f7a2cc", null ]
+];
